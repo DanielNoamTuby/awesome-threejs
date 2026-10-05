@@ -301,7 +301,7 @@
 
 ## Space
 
-- [Exo-View](https://exo-view.com/): Interactive Earth and solar system: a Blue Marble globe under a live day/night terminator with World Bank data laid over it, the planets and moons to scale, and the galaxy beyond by [@DanielNoamTuby](https://github.com/DanielNoamTuby)
+- [Exo-View](https://exo-view.com/): Interactive 3D atlas of the Milky Way: 32,000+ real stars, nebulae and black holes at their measured positions, every planet and moon where it is right now, down to Earth with every country's data by [@DanielNoamTuby](https://github.com/DanielNoamTuby)
 
 # Community
 
