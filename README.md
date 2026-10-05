@@ -299,6 +299,10 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Space
+
+- [Exo-View](https://exo-view.com/): Interactive Earth and solar system: a Blue Marble globe under a live day/night terminator with World Bank data laid over it, the planets and moons to scale, and the galaxy beyond by [@DanielNoamTuby](https://github.com/DanielNoamTuby)
+
 # Community
 
 ## Core
